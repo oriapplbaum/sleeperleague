@@ -26,7 +26,7 @@ export const managers = [
       "managerID": "457634691411865600",
       "name": "Josh Weiss",
       //"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "NYC?", // (optional)
+      "location": "NYC", // (optional)
       "bio": "My name is Josh and I never win",
       "photo": "/managers/Joshsleeper.png", // square ratio recommended (no larger than 500x500)
       //"fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -141,7 +141,7 @@ export const managers = [
       "name": "Sruli Picard",
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "managerID": "468628060959141888",
-      "location": "NYC?", // (optional)
+      "location": "Boston", // (optional)
       "bio": "My name is Picky...",
       "photo": "/managers/Srulisleeper.jpg", // square ratio recommended (no larger than 500x500)
      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -233,7 +233,7 @@ export const managers = [
       "name": "Sam Unger",
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "managerID": "468627649653108736",
-      "location": "NYC?", // (optional)
+      "location": "Boston", // (optional)
       "bio": "My name is Sam, I love Tom Brady and I am here for the vibes",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -248,7 +248,7 @@ export const managers = [
       "valuePosition": "K", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       //"rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "My philosophy is:",
-      "tradingScale": 3, // 1 - 10
+      "tradingScale": 1, // 1 - 10
       "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     }
 
