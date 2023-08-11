@@ -125,6 +125,6 @@
 	</div>
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
-	<p Created by yours truly, Ori p>
+	<p> Created by yours truly, Ori </p>
 	
 </footer>
