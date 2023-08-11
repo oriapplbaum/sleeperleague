@@ -97,7 +97,7 @@ export const managers = [
       "managerID": "468618508750548992",
       "location": "NYC??", // (optional)
       "bio": "My name is Zevi, I always get screwed in the draft order and get the 9th or 10th pick. I've had little success since moving over to sleeper ",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Zevisleeper.jpeg", // square ratio recommended (no larger than 500x500)
      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -143,7 +143,7 @@ export const managers = [
       "managerID": "468628060959141888",
       "location": "NYC?", // (optional)
       "bio": "My name is Picky...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Srulisleeper.jpg", // square ratio recommended (no larger than 500x500)
      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -189,7 +189,7 @@ export const managers = [
       "managerID": "468631528935518208",
       "location": "NYC?", // (optional)
       "bio": "My name is Ezra, or Jennifer. I tried to leave the league this year but was not allowed. I'm always a threat, but like Mr. Jake, can't seal the deal",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Ezrasleeper.jpg", // square ratio recommended (no larger than 500x500)
      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -212,7 +212,7 @@ export const managers = [
       "managerID": "608490730792509440",
       "location": "NYC?", // (optional)
       "bio": "My name is Charlie:",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Charliesleeper.jpg", // square ratio recommended (no larger than 500x500)
      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
