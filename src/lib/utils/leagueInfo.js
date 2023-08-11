@@ -165,7 +165,7 @@ export const managers = [
      // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "managerID": "468629743978147840",
       "location": "NYC?", // (optional)
-      "bio": "My name is Jake. I am usually in the playoff but I can't seal the deal.",
+      "bio": "My name is Jake. I won in 2021 but I choked last year.  I am a sleeper merchant as I sucked before the switch",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
