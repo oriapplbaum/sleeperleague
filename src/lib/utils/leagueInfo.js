@@ -47,7 +47,7 @@ export const managers = [
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Doni Berg",
-      "managerID": "462817845017833472"
+      "managerID": "462817845017833472",
       //"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Washington D.C", // (optional)
       "bio": "My name is Doni and I am the proud commissioner of Sharon Football. Usually I don't make any noise but last year I actually won the league WOWZERS",
