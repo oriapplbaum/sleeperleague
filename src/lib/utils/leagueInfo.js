@@ -7,8 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Coming Soon.</p>
-  
+  <p>Established in 2011 on Yahoo Fantasy, the Sharon Football League has etched its name into the annals of fantasy football history. What began as a simple gathering of friends and football fanatics has evolved into a storied tradition, shaped by unforgettable moments, fierce rivalries, and a passion for the game that knows no bounds.</p>
+  <p>Our journey through the gridiron continued as we transitioned to NFL Fantasy, where our league's camaraderie and competitive spirit flourished. Each season brought new challenges, heart-stopping victories, and the inevitable agonies of defeat. But through it all, the bonds we forged only grew stronger, fueled by a shared love for football and the thrill of fantasy competition.</p>
+  <p>As we stride into the present, the Sharon Football League finds its home on Sleeper.com, where the legacy lives on, and the excitement remains as palpable as ever. With a mix of seasoned veterans and fresh faces, our league boasts a dynamic blend of experience and enthusiasm. The newcomers inject a renewed energy, while the veterans bring a wealth of knowledge and a desire to reclaim past glories.</p>
+  <p>But this league is more than just stats and scores. It's about the friendships that have stood the test of time, the rivalries that spark heated debates, and the shared memories that make every touchdown, every draft pick, and every victory that much sweeter. </p>
+  <p>As we embark on each new season, we honor the legacy of our past while eagerly embracing the future. The Sharon Football League isn't just a collection of teams—it's a community, a tradition, and a testament to the enduring power of sport to bring people together. Here's to another thrilling season of touchdowns, interceptions, draft strategies, and nail-biting matchups. The gridiron awaits, and the Sharon Football League is ready to make its mark once again. Let the games begin!</p>
 `;
 
 /*   STEP 3   */
